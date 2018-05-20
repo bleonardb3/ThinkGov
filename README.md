@@ -8,9 +8,9 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 ## Instructions:
 
-### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `New Project`.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`.
 
-> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
 ### Step 2.  Select the project you created at the beginning of this proof of technology.
 
