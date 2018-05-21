@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-Use IBM’s Watson Studio to create machine learning models and applications. Participants will have a choice of the following labs. Given the limited time amount, most likely only 1 lab will be completed in the time period. All labs will use passenger data from the Titanic. 
+Use IBM’s Watson Studio to create machine learning models and applications. Participants will have a choice of the following labs. Given the limited time amount, most likely only 1 lab will be completed in the time period. All labs use passenger data from the Titanic. 
 
 
 1. [Lab-1](https://github.com/bleonardb3/WM/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
