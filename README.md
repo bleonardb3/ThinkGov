@@ -13,7 +13,7 @@ Use IBM’s Watson Studio to create machine learning models and applications. Pa
 
 1. [Lab-3](https://github.com/bleonardb3/WM/tree/master/Lab-3) - The third lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.  
 
-You will use IBM's Watson Studio to perform the labs in this repository. The instructions to set up the environment are documented below. After completing these instructions, please go to the chosen lab folder and follow the Readme. 
+You will use IBM's Watson Studio to perform the labs in this repository. The instructions to set up the environment are documented below. After completing these instructions, please go to the chosen lab folder and follow the individual lab's Readme. 
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
