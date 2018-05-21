@@ -1,4 +1,4 @@
-# Watson Studio Labs Create a Watson Studio project and set up required services. 
+# Watson Studio Labs  
 
 ## Introduction:
 
