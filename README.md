@@ -12,7 +12,7 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
-### Step 2.  If you have an existing project by following the signup instructions then select it, and skip to Step 8.  Otherwise, click on `New Project`. 
+### Step 2.  If you have an existing project from following the signup instructions then select it, and skip to Step 8.  Otherwise, click on `New Project`. 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
 
 ### Step 3. Enter the project name (eg. Watson Studio Labs), optionally a description, and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 8. 
