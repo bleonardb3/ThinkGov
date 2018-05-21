@@ -12,9 +12,8 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
-### Step 2.  Select the project you created at the beginning of this proof of technology.
-
-> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Watson%20Studio%20Labs.png"/>
+### Step 2.  Select the project you created by follwowing the signup instructions, and skip to Step x.  If you have not created a project, click on `New Project`. 
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
 
 The labs in this Proof of Technology will require the following services to be created and associated with your project. 
 1. Object Storage
