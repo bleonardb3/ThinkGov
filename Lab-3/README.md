@@ -30,7 +30,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Create%20Notebook%20from%20URL.png"/>
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Lab-3/Images/Create%20Spark%20Notebook.png"/>
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Titanic Student` and optionally you can give it a description.
