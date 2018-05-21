@@ -27,6 +27,10 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Confirm%20Creation.png"/>
 
+### Step 6. Click on `Refresh`, and then click on `Create`
+
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Click%20Refresh.png"/>
+
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
 The labs in this Proof of Technology will require the following services to be created and associated with your project. 
