@@ -27,9 +27,13 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Confirm%20Creation.png"/>
 
-### Step 6. Click on `Refresh`, and then click on `Create`
+### Step 6. Click on `Refresh`. 
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Click%20Refresh.png"/>
+
+### Step 7.  The cloud object storage should appear. Now click on `Create`. 
+
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Click%20Project%20Create.png"/>
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
