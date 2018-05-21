@@ -19,9 +19,13 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
-### Step 4. Click on the Lite plan, and then click on OK. 
+### Step 4. Click on the Lite plan, and then click on `Create`. 
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Create%20Object%20Storage.png"/>
+
+### Step 5. Optionally change the storage name, and then click on `Confirm`
+
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Confirm%20Creation.png"/>
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
