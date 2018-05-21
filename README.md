@@ -17,7 +17,7 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 ### Step 3. Enter the project name (eg. Watson Studio Labs), optionally a description, and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage, then just click on the `Create` button. 
 
-> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Click%20Add.png"/>
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
 The labs in this Proof of Technology will require the following services to be created and associated with your project. 
 1. Object Storage
