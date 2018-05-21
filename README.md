@@ -19,6 +19,12 @@ You will use IBM's Watson Studio to perform the labs in this repository. The ins
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
+### Step 4. Click on the Lite plan, and then click on OK. 
+
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Create%20Object%20Storage.png"/>
+
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
+
 The labs in this Proof of Technology will require the following services to be created and associated with your project. 
 1. Object Storage
 1. Watson Machine Learning
