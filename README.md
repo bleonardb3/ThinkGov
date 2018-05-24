@@ -7,11 +7,11 @@
 Use IBM’s Watson Studio to create machine learning models and applications. Participants will have a choice of the following labs. Given the limited time amount, most likely only 1 lab will be completed in the time period. All labs use passenger data from the Titanic. 
 
 
-1. [Lab-1](https://github.com/bleonardb3/WM/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
+1. [Lab-1](https://github.com/bleonardb3/ThinkGov/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
 
-1. [Lab-2](https://github.com/bleonardb3/WM/tree/master/Lab-2) - The second lab will guide participants in using the Watson Studio SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.
+1. [Lab-2](https://github.com/bleonardb3/ThinkGov/tree/master/Lab-2) - The second lab will guide participants in using the Watson Studio SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.
 
-1. [Lab-3](https://github.com/bleonardb3/WM/tree/master/Lab-3) - The third lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.  
+1. [Lab-3](https://github.com/bleonardb3/ThinkGov/tree/master/Lab-3) - The third lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.  
 
 You will use IBM's Watson Studio to perform the labs in this repository. The instructions to set up the environment are documented below. After completing these instructions, please go to the chosen lab folder and follow the individual lab's Readme. 
 
